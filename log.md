@@ -6,8 +6,17 @@
 
 **Thoughts:** Hoping this PR gets merged soon. GraphQL is really convenient, as far as I can tell so far. Need to read more about its disadvantages.
 
-**Links:**
+**Links/Resources:**
 [Github PR](https://github.com/facebook/react/pull/11658)
+Lynda.com "Learning GraphQL" tutorial
+
+### Day 2: 1/16/18
+
+**Today's Progress**: continued GraphQL tutorials
+
+**Thoughts:** I feel like I get the basics now
+
+**Links/Resources:**
 Lynda.com "Learning GraphQL" tutorial
 
 
