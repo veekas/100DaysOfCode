@@ -33,6 +33,15 @@ Lynda.com "Learning GraphQL" tutorial
 [Codeacademy Sass tutorial](https://www.codecademy.com/courses/learn-sass)
 [Wes Bos CSS Grid](https://cssgrid.io/)
 
+### Day 4: 1/19/18
+
+**Today's Progress:** more CSS Grid
+
+**Thoughts:** Wes' "get-sweaty" section was extremely helpful for retention, why don't tutorials use it more?
+
+**Links/Resources:**
+[Wes Bos CSS Grid](https://cssgrid.io/)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
