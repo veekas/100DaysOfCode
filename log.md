@@ -25,11 +25,13 @@ Lynda.com "Learning GraphQL" tutorial
 
 ### Day 3: 1/18/18
 
-**Today's Progress:**
+**Today's Progress:** completed 25% of Sass tutorial and 40% of CSS Grid tutorial
 
-**Thoughts:**
+**Thoughts:** working towards a goal of being much more effective at design. I adore CSS Grid, and Wes Bos creates an amazing tutorial
 
 **Links/Resources:**
+[Codeacademy Sass tutorial](https://www.codecademy.com/courses/learn-sass)
+[Wes Bos CSS Grid](https://cssgrid.io/)
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
