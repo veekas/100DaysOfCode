@@ -42,6 +42,18 @@ Lynda.com "Learning GraphQL" tutorial
 **Links/Resources:**
 [Wes Bos CSS Grid](https://cssgrid.io/)
 
+### Day 5: 1/20/18
+
+**Today's Progress:** more CSS Grid (finished image gallery), and alorithm practice from 11am-6pm!
+
+**Thoughts:**
+
+**Links/Resources:**
+[Wes Bos CSS Grid](https://cssgrid.io/)
+[CodeRust](https://www.educative.io/collection/5642554087309312/5679846214598656)
+[AlgoExpert](https://www.algoexpert.io)
+[Leetcode](https://leetcode.com/)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
