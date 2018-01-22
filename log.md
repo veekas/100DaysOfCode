@@ -44,9 +44,18 @@ Lynda.com "Learning GraphQL" tutorial
 
 ### Day 5: 1/20/18
 
-**Today's Progress:** more CSS Grid (finished image gallery), and alorithm practice from 11am-6pm!
+**Today's Progress:** more CSS Grid
 
-**Thoughts:**
+**Thoughts:** I don't remember what I did yesterday. Started to get bored with some of the technical details by the end, but today (1/21) it transitions to projects
+
+**Links/Resources:**
+[Wes Bos CSS Grid](https://cssgrid.io/)
+
+### Day 5: 1/21/18
+
+**Today's Progress:** more CSS Grid (finished image gallery), and algorithm practice all day!
+
+**Thoughts:** it's so much more fun to work in a group. prioritize this more.
 
 **Links/Resources:**
 [Wes Bos CSS Grid](https://cssgrid.io/)
